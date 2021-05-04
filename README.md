@@ -17,4 +17,5 @@ Repositório da Disciplina Sistemas de Informações e Banco de Dados do curso d
 <li><a href="https://www.makeareadme.com/">https://www.makeareadme.com/</a></li>
 <li><a href="https://www.conventionalcommits.org/pt-br/v1.0.0/">https://www.conventionalcommits.org/pt-br/v1.0.0/</a></li>
 <li><a href="https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7">12 common mistakes made when using Story Points</a></li><li><a href="https://dl.acm.org/doi/10.1145/3422392.3422440">What causes merge conflicts?</a></li>
+<li><a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token">GitHub Personal Access Token</a></li>
 </ul>
