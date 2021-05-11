@@ -7,6 +7,13 @@ Repositório da Disciplina Sistemas de Informações e Banco de Dados do curso d
 <strong>Hor&aacute;rio</strong>
 <p>TER E QUI 10:00 &agrave;s 12:00</p>
 
+
+<strong>Material Complementar</strong></p>
+<p>Orientação à Objetos</p>
+<ul>
+<li><span class="fontstyle0"><a href="https://www.coursera.org/learn/lab-poo-parte-1"> Material de OO no Coursera (Gratuito)</a></span></li>
+</ul>
+
 <strong>Links Interessantes</strong></p>
 <p>GIT</p>
 <ul>
