@@ -7,6 +7,13 @@ Repositório da Disciplina Sistemas de Informações e Banco de Dados do curso d
 <strong>Hor&aacute;rio</strong>
 <p>TER E QUI 10:00 &agrave;s 12:00</p>
 
+
+<strong>Material Complementar</strong></p>
+<p>Orientação à Objetos</p>
+<ul>
+<li><span class="fontstyle0"><a href="https://www.coursera.org/learn/lab-poo-parte-1"> Material de OO no Coursera (Gratuito)</a></span></li>
+</ul>
+
 <strong>Links Interessantes</strong></p>
 <p>GIT</p>
 <ul>
@@ -17,4 +24,5 @@ Repositório da Disciplina Sistemas de Informações e Banco de Dados do curso d
 <li><a href="https://www.makeareadme.com/">https://www.makeareadme.com/</a></li>
 <li><a href="https://www.conventionalcommits.org/pt-br/v1.0.0/">https://www.conventionalcommits.org/pt-br/v1.0.0/</a></li>
 <li><a href="https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7">12 common mistakes made when using Story Points</a></li><li><a href="https://dl.acm.org/doi/10.1145/3422392.3422440">What causes merge conflicts?</a></li>
+<li><a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token">GitHub Personal Access Token</a></li>
 </ul>
