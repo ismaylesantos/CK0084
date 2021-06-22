@@ -9,7 +9,7 @@ public class Main {
 		ExemplosExceções exemplos = new ExemplosExceções();
 		
 		//#1 Exemplo de exceção não verificada
-		exemplos.metodoComExcecaodoTipoNaoVerificada(20);
+		//exemplos.metodoComExcecaodoTipoNaoVerificada(20);
 		//Vai lançar Exceção
 		//--- exemplos.metodoComExcecaodoTipoNaoVerificada(6);
 		
@@ -23,7 +23,7 @@ public class Main {
 		}*/
 		
 		//#3 Exemplos de throws, try-catch e try-catch-finally
-		exemplos.chamaMetodosComExceção();
+		//exemplos.chamaMetodosComExceção();
 		
 		//#4 Exemplo de Pilha Exceção. Note que a exceção vem do método: metodoComNullPointException
 		/*try {
@@ -43,6 +43,22 @@ public class Main {
 		//#6 - Exemplo de Verificação de Entradas  
 		//Esse método que não verifica a entrada de forma adequada
 		//fatorial(5);
+		
+		exemplos.doismetodosFor();
+		/*try {
+			exemplos.lancaDeNovo();
+		} catch (SemLetraBException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		
+		try {
+			exemplos.metodoChamaMinhaExcecao("b");
+		} catch (SemLetraBException e) {
+			System.out.println(e.getMessage());
+			e.printStackTrace();
+		}*/
 	}
 	
 	//Exemplo de método com validação INEFICIENTE da entrada

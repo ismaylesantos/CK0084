@@ -103,6 +103,10 @@ public class ExemplosExceções {
 		System.out.println("Resto do Programa");
 	}
 	
+	public void lancaDeNovo() throws SemLetraBException {
+		metodoChamaMinhaExcecao("mario");
+	}
+	
 	public void metodoChamaMinhaExcecao(String nome) throws SemLetraBException {
 		if(!nome.contains("b")) {
 			throw new SemLetraBException();
@@ -110,6 +114,22 @@ public class ExemplosExceções {
 			System.out.println("Nome está de acordo");
 		}
 		
+	}
+	
+	public void doismetodosFor() {
+		String[] arrayCriado = new String[5];
+		arrayCriado[0]="A";
+		
+		for (int i = 0; i < 5; i++) {
+			System.out.println(arrayCriado[i]);
+		}
+		
+		System.out.println("Segundo for");
+		
+		for (String elemento : arrayCriado) {
+			System.out.println(elemento);
+			
+		}
 	}
 	
 }
