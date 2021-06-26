@@ -15,13 +15,13 @@ public class Circulo implements Forma{
 
 	public double getArea() {
 		// Estou usando o método pow da classe Math para "raio elevado a 2"		
-		return 3.14 * Math.pow(raio,2);
+		return Math.PI * Math.pow(raio,2);
 	}
 
 	@Override
 	public double getPerimetro() {
-		// 3.14 é o valor de PI
-		return 2 * 3.14 * raio;
+		// usando a classe Math para pegar o valor de PI
+		return 2 * Math.PI * raio;
 	}
 	
 	public void printRaio() {
