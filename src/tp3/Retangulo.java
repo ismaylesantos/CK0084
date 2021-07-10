@@ -1,7 +1,7 @@
 package tp3;
 
 //Resposta do item 3) do TP-3
-public class Retangulo extends Quadrilatero implements Forma{
+public class Retangulo extends Quadrilatero {
 	
 	public Retangulo(double base, double altura) {
 		super(base, altura, base, altura);
