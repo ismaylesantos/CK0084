@@ -30,5 +30,5 @@ Repositório da Disciplina Sistemas de Informações e Banco de Dados do curso d
 <p>SLQLITE3</p>
 <ul>
 <li><a href="http://pythonclub.com.br/guia-rapido-comandos-sqlite3.html">http://pythonclub.com.br/guia-rapido-comandos-sqlite3.html</a></li>
-<li><a href="https://youtu.be/H53k3DjNO7I"> SQLITE e DBBroswer </a></li>
+<li><a href="https://youtu.be/H53k3DjNO7I"> SQLITE e DBBrowser </a></li>
 </ul>
